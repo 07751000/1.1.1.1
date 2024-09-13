@@ -1,9 +1,6 @@
-1330k  61.149.122.203:8888
-1077k  mtjkwdrive.zzmd.fun:8888
-1037k  ikuai.zlsip.top:4022
-1030k  123.113.236.69:8012
-1020k  114.243.104.163:4000
-959k  cn.zzmd.fun:8888
-937k  222.129.32.189:8686
-930k  imzbpfrp.zzmd.fun:8888
-917k  iptv.8t.cx:8180
+1774k  222.129.33.14:8888
+1600k  bplwberp.zzmd.fun:8888
+1553k  ikuai.zlsip.top:4022
+1543k  123.113.237.36:8012
+1159k  masiqi.myqnapcloud.com:4022
+279k  cn.zzmd.fun:8888
