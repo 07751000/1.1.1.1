@@ -1,10 +1,7 @@
-1098k  114.246.102.14:4000
-980k  sweetown.fun:4000
-939k  114.249.5.110:4022
-905k  masiqi.myqnapcloud.com:4022
-898k  114.243.99.53:4000
-703k  123.122.188.149:8012
-517k  123.117.163.55:8118
-469k  imzbpfrp.zzmd.fun:8888
-421k  drive.mxmy.net:8888
-161k  noeypszbgd.cn.zzmd.fun:8888
+1147k  wg.mxmy.net:8888
+1086k  bplwberp.zzmd.fun:8888
+1030k  imzbpfrp.zzmd.fun:8888
+971k  123.113.237.36:8012
+969k  ikuai.zlsip.top:4022
+848k  221.216.137.230:8012
+832k  123.122.188.149:8012
