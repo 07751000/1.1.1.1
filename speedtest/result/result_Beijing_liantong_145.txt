@@ -1,7 +1,9 @@
-1147k  wg.mxmy.net:8888
-1086k  bplwberp.zzmd.fun:8888
-1030k  imzbpfrp.zzmd.fun:8888
-971k  123.113.237.36:8012
-969k  ikuai.zlsip.top:4022
-848k  221.216.137.230:8012
-832k  123.122.188.149:8012
+1130k  111.196.128.239:4022
+1113k  123.113.237.36:8012
+1055k  iptv.8t.cx:8180
+1055k  ikuai.zlsip.top:4022
+1033k  drive.mxmy.net:8888
+1029k  114.243.104.92:8888
+1022k  cn.zzmd.fun:8888
+981k  114.243.99.53:4000
+887k  bplwberp.zzmd.fun:8888
